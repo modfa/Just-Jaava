@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Just Jaava</string>
+    <string name="Order_Summary">Order Summary!</string>
+    <string name= "whipped_cream">Whipped Cream</string>
+
+    <!-- Header text for the list of toppings [CHAR LIMIT=20] -->
+    <string name= "toppings">Toppings</string>
+    <string name="rupee_symbol">\u20B9</string>
+
+   <string name= "thank_you">Thank You !</string>
+</resources>
